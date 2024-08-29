@@ -1,1 +1,1 @@
-# Ecommerce-Sales-Analysis
+The Ecommerce Sales Analysis Excel Dashboard project aims to create a comprehensive and interactive dashboard to track and analyze sales performance for an ecommerce business. The dashboard will help stakeholders make data-driven decisions by providing insights into key performance metrics, sales trends, and customer behavior.
